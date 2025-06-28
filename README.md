@@ -1,7 +1,27 @@
-# BlendTreeBuilder
-A Unity tool to make VRC Blendtree creation easier and faster 
+<div align="center">
 
-### [Download From Here](https://vpm.dreadscripts.com/)
+# BlendTreeBuilder
+
+[![Generic badge](https://img.shields.io/github/downloads/VRLabs/BlendTreeBuilder/total?label=Downloads)](https://github.com/VRLabs/BlendTreeBuilder/releases/latest)
+[![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/BlendTreeBuilder/blob/main/LICENSE)
+[![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-lightblue.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
+[![Generic badge](https://img.shields.io/badge/SDK-AvatarSDK3-lightblue.svg)](https://vrchat.com/home/download)
+
+[![Generic badge](https://img.shields.io/discord/706913824607043605?color=%237289da&label=DISCORD&logo=Discord&style=for-the-badge)](https://discord.vrlabs.dev/)
+[![Generic badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dvrlabs%26type%3Dpatrons&style=for-the-badge)](https://patreon.vrlabs.dev/)
+
+A Unity tool to make VRC Blendtree creation easier and faster.
+
+![BlendTreeBuilder](https://i.imgur.com/QIDZTdq.png))
+
+### ⬇️ [Download Latest Version](https://github.com/VRLabs/BlendTreeBuilder/releases/latest)
+
+
+### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.blendtreebuilder)
+
+</div>
+
+---
 
 ## Features
 - Simple toggles
@@ -40,6 +60,3 @@ The optimizer does not take into account layer priority. If an optimized toggle 
 - Make the builder for faster and easier tree building
 
 ![tree preview](https://i.imgur.com/M0L2E8G.png)
-
-### Thank You
-If you enjoy BlendTreeBuilder, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!

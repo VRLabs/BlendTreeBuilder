@@ -1,17 +1,24 @@
 {
-  "name": "com.dreadscripts.blendtreebuilder",
-  "displayName": "DreadScripts - BlendTreeBuilder",
+  "name": "dev.vrlabs.blendtreebuilder",
+  "displayName": "BlendTreeBuilder",
   "version": "0.8.1",
+  "license": "MIT",
+  "unity": "2019.4",
+  "author": {
+    "name": "VRLabs",
+    "email": "mail@vrlabs.dev",
+    "url": "https://vrlabs.dev"
+  },
   "description": "A Unity tool to make VRC Blendtree creation easier and faster.",
   "gitDependencies": {},
   "vpmDependencies": {},
-  "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://www.dreadrith.com"
+  "legacyFolders": {
+    "Assets/VRLabs/BlendTreeBuilder": "332eb69ec4bee324597c651f13e7b3b1"
   },
-  "legacyFolders": {},
-  "legacyFiles": {},
-  "type": "tool",
-  "unity": "2019.4"
+  "unityPackageDestinationFolder": "Packages/dev.vrlabs.blendtreebuilder",
+  "unityPackageDestinationFolderMetas": {},
+  "vccRepoCategory": "tools",
+  "media": {
+  },
+  "legacyFiles": {}
 }

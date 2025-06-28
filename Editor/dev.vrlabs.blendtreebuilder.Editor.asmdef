@@ -1,5 +1,5 @@
 {
-    "name": "com.dreadscripts.blendtreebuilder.Editor",
+    "name": "dev.vrlabs.blendtreebuilder.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
