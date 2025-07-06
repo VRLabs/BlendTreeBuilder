@@ -17,7 +17,7 @@
   },
   "unityPackageDestinationFolder": "Packages/dev.vrlabs.blendtreebuilder",
   "unityPackageDestinationFolderMetas": {},
-  "vccRepoCategory": "tools",
+  "vccRepoCategory": "rehosted",
   "media": {
   },
   "legacyFiles": {}
