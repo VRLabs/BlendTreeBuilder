@@ -1,3 +1,4 @@
+Note: this fork goes against Dreadrith's, the Original Author, wishes. Is is however compliant with the original OS license.
 <div align="center">
 
 # BlendTreeBuilder
@@ -12,7 +13,7 @@
 
 A Unity tool to make VRC Blendtree creation easier and faster.
 
-![BlendTreeBuilder](https://i.imgur.com/QIDZTdq.png))
+![BlendTreeBuilder](https://i.imgur.com/QIDZTdq.png)
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/BlendTreeBuilder/releases/latest)
 
