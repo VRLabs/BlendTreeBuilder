@@ -35,7 +35,7 @@ A Unity tool to make VRC Blendtree creation easier and faster.
 3. Press 'Optimize!' at the bottom.
 4. Done!
 
-![ready window](https://i.imgur.com/aGnwx2T.png)
+![Preview](https://github.com/user-attachments/assets/9097a96f-2f65-4d7b-b8bc-8dc45edfb0db)
 
 # Details
 On the second step, in the optimize tab, you're given details on what will be handled.
